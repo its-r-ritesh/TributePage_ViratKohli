@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 50%
+}
+.first{
+    background-color:black;
+    width: 100vw;
+
+}
+h1{
+    padding: 20px;
+    text-align: center;
+    font-size:50px ;
+    color: white;
+    text-shadow: 0 0 10px white;
+}
+img{
+    width: 80vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 0 20px rgb(40, 38, 38);  
+}
+.second{
+    margin-right: 5vw;
+    padding-left: 80px;
+    box-shadow: 0 20px 45px rgb(0, 0, 0);
+}
+    
+h2{
+    text-align: center;
+    text-shadow: 5px 6px 10px rgb(230, 227, 227);
+    color:white;
+    padding: 20px;
+    font-size: 900;
+    font-size: 30px
+   
+}
+ul{
+    padding-right: 5px;
+}
+li{
+    font-size:18px;
+   padding-bottom: 8px;
+}
+.last{
+    width: 100vw;
+    background-color: black;
+    color: whitesmoke;
+    padding: 10px;
+}
+/* .last:hover{
+    width: 100vw;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 10px;
+} */
+span:hover{
+    text-shadow: 5px 1px 20px rgb(255, 255, 255);
+    box-shadow: 5px 6px 20px white;
+}
